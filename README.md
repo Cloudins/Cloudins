@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Cloudins/Cloudins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ## Lawrence
 
 *Electronic Information Student / Embedded Systems Developer*
@@ -27,3 +26,21 @@ Focusing on building robust embedded systems and IoT solutions. I value clean co
 
 ---
 *Always learning, always building.*
+-->
+## Hi there, I'm Lawrence 🚀
+
+*Master's Student in Electronic Information | Aspiring Embedded Software Engineer*
+
+Focusing on building robust embedded systems and IoT solutions. I value clean code, effective hardware-software integration, and structured knowledge management.
+
+### 💻 Tech Focus
+
+🔹 **Languages:** C/C++, Java  
+🔸 **Hardware:** ESP32, STM32, MCU Development  
+🔹 **Tools:** PlatformIO, Git, Obsidian  
+
+### 🌱 Currently Exploring
+
+- Hardware-software integration in IoT.
+- Efficient system resource management.
+- Refining automated workflows and knowledge base.
